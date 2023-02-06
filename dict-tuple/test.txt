@@ -1,0 +1,6 @@
+Hi this is a sample text file
+to test few python
+programs.
+cat is a cool pet.
+what is your favorite animal?
+I like dog.

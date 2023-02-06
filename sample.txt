@@ -1,0 +1,4 @@
+Hello world.
+Trying opening a file.
+Hi! Welcome.
+This is a sample file.
